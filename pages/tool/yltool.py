@@ -6,6 +6,7 @@ from enum import Enum
 
 
 class commonpath(Enum):
+
     path = "F:\\"
     sheetdir = 'F:\\config'
 
